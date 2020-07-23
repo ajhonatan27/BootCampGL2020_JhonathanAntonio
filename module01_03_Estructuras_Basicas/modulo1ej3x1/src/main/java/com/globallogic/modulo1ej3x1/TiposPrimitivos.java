@@ -10,11 +10,11 @@ public class TiposPrimitivos {
 		float myFloat = 2436.2456f;
 		short myShort = 500;
 		
-		System.out.println(myNum);
-		System.out.println(myChar);
-		System.out.println(myBool);
-		System.out.println(myFloat);
-		System.out.println(myShort);
+		System.out.println("Mi numero es : "+myNum);
+		System.out.println("Mi caracter es: "+myChar);
+		System.out.println("El valor del bool es: "+myBool);
+		System.out.println("El valor del float es: "+myFloat);
+		System.out.println("El valor del short es: "+myShort);
 	}
 
 }
