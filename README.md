@@ -1,8 +1,8 @@
 # BootCamp2020 Global Logic
 
-## Jhonathan Antonio
+## *Jhonathan Antonio*
 
-### Ejercicios complementarios de la teoría:
+### Modulo 01:
 
 1. Git
 
